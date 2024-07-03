@@ -1,0 +1,8 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background: rgb(174,208,238);
+  background: linear-gradient(137deg, rgba(201, 186, 255, 0.471) 0%, rgba(148,187,233,1) 80%);
+  min-height: 100vh;
+}
